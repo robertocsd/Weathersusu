@@ -23,9 +23,13 @@ You can find information about how to setup PATROL in you computer here! https:/
 but in case, here are a couple of videos showing up the tests with Patrol! 
 
 CHANGING CITY TEST - AUTOMATICALLY DONE BY PATROL.
+
+
 https://github.com/robertocsd/Weathersusu/assets/43767834/01ee313a-d381-452f-99c5-a435350cf0ba
 
 CHANING TEMPERATURE UNIT TEST - AUTOMATICALLY DONE BY PATROL.
+
+
 https://github.com/robertocsd/Weathersusu/assets/43767834/5d94f871-cdbb-49f8-ad31-cfc4e0cefd0c
 
 

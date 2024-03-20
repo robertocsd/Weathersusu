@@ -1,7 +1,7 @@
 import 'package:challenge_esusu/helper/weather_interpreter.dart';
 import 'package:flutter/material.dart';
 
-//API key for google maps
+//API key for google maps -- JUST FOR MAKE EASY TESTING, PLEASE DO NOT USE THIS KEY FOR ANY OTHER PURPOSES.
 const String apiKey = "AIzaSyCXqTw06oBUJV_r1EkwiXvfXUNq7r_6J1g";
 
 const Color textColorLightTheme = Color(0xFF0D0D0E);

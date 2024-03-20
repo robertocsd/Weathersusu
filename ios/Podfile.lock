@@ -1,0 +1,42 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - Flutter (1.0.0)
+  - geocoding_ios (1.0.5):
+    - Flutter
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - patrol (0.0.1):
+    - CocoaAsyncSocket (~> 7.6)
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - geocoding_ios (from `.symlinks/plugins/geocoding_ios/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - patrol (from `.symlinks/plugins/patrol/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  geocoding_ios:
+    :path: ".symlinks/plugins/geocoding_ios/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  patrol:
+    :path: ".symlinks/plugins/patrol/darwin"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  geocoding_ios: d7460f56e80e118d57678efe5c2cdc888739ff18
+  geolocator_apple: 6cbaf322953988e009e5ecb481f07efece75c450
+  patrol: 3e21d514020dbee24b3e3383caac9e8e051292ac
+
+PODFILE CHECKSUM: 05e6e95624ef7ca5423d4e2d2933ce165d851682
+
+COCOAPODS: 1.15.2

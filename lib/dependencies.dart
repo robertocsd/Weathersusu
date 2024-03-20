@@ -3,7 +3,7 @@ import 'package:challenge_esusu/core/search/repository/i_network_service.dart';
 import 'package:challenge_esusu/features/home/bloc/weather_bloc_bloc.dart';
 import 'package:challenge_esusu/features/home/data/get_weather.dart';
 import 'package:challenge_esusu/features/search/bloc/search_bloc.dart';
-import 'package:challenge_esusu/features/search/repository/network_service.dart';
+import 'package:challenge_esusu/features/search/data/network_service.dart';
 import 'package:get_it/get_it.dart';
 
 final GetIt getIt = GetIt.instance;

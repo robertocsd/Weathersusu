@@ -1,5 +1,5 @@
 # Weathersusu
-This is a challenge made with love by Roberto for Esusu! 
+This is a challenge made with love by Roberto Carlos Salmeron for Esusu! 
 
 
 This app is a recreation of many popular weather apps that are available in the market, called Weathersusu!

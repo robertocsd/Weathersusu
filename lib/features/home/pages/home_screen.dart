@@ -357,7 +357,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                     })),
                             const Center(
                                 child: Text(
-                              'Made with love by Roberto for Esusu! ',
+                              'Made with love by Roberto for iProov! ',
                               style: TextStyle(
                                   color: Colors.white,
                                   fontWeight: FontWeight.bold,

@@ -18,7 +18,6 @@ class GeocodingRepositoryImpl implements IGeocodingRepository {
   @override
   Future<List<Placemark>> placemarkFromCoordinates(
       double latitude, double longitude) {
-    // Llama a la función de la biblioteca geocoding, no a sí mismo.
     return geo.placemarkFromCoordinates(latitude, longitude);
   }
 }

@@ -35,7 +35,7 @@ dev_dependencies:
   bloc_test: ^9.0.0
   mockito: ^5.0.17
   mocktail:
-  patrol: 3.6.0
+  patrol: ^3.14.1
   patrol_finders: ^2.0.2
 
 flutter:

@@ -1,8 +1,8 @@
 # Weathersusu
-This is a challenge made with love by Roberto Carlos Salmeron for Esusu! 
+This is a challenge made with love by Roberto Carlos Salmeron for iProov! 
 
 
-This app is a recreation of many popular weather apps that are available in the market, called Weathersusu!
+This app is a recreation of many popular weather apps that are available in the market, (made in less than a day)!
 
 This apps implements the next features:
 
@@ -16,7 +16,7 @@ This apps implements the next features:
 https://github.com/robertocsd/Weathersusu/assets/43767834/61cb003a-44f1-4d20-bded-4bd139e263fb
 
 
-Technically this app is builded using flutter_bloc for state management, bloc_test for unit testing in the bloc part, and PATROL for UI test and integration testing!
+Technically this app is builded using flutter_bloc for state management, bloc_test for unit testing in the bloc part, and PATROL for UI test and integration testing! (inmplementing concepts from clean arch using bloc pattern!)
 
 You can find information about how to setup PATROL in you computer here! https://patrol.leancode.co/
 
